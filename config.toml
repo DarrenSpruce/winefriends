@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Tower Winery"
+[params]
+	description = "Friendship and passion to produce great wines"
+
+[[params.social]]
+	title = "email"
+	icon = "envelope-o"
+	url = "mailto:darrenspruce@gmail.com"

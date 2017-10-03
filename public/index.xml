@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tower Winery</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Tower Winery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://example.org/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/about/</guid>
+      <description>The Tower Winery was inspired by true friendship and the desire to help one another to follow our passions and be able to share the spirit of these passions in the taste of our wine.
+We have a limited production of 2015 and 2016 wines: Old Friends Loyal Friends Best Friends True Friends
+For enquiries and orders please submit your request in the form below and we will get in contact with you.</description>
+    </item>
+    
+    <item>
+      <title>Best Friends</title>
+      <link>http://example.org/services/best/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/services/best/</guid>
+      <description>This wine is the fruit of a long standing Hungarian-Scandinavian friendship hence the name on the label. Best Friends - Kadarka is the product of the reputable wine growing region of Eger with it&amp;rsquo;s well suited soil and climate. This wine is unique for it&amp;rsquo;s special spiciness, exciting fruitiness and low level of tannin in the background. Light, almost rose coloured due to the delicate kadarka grape. The light but sophisicated flavour begs repeated tasting to explore the unique flavours.</description>
+    </item>
+    
+    <item>
+      <title>Good Friends</title>
+      <link>http://example.org/services/good/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/services/good/</guid>
+      <description>2015 cuvee made with a blend of Leyanka and Gewurztraminer grapes. Distinct balanced fragrant and mineral flavours make this a pleasure to accompany fish, cheese or simply as an aperitif. Also adds charm to fondues.</description>
+    </item>
+    
+    <item>
+      <title>Loyal Friends</title>
+      <link>http://example.org/services/loyal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/services/loyal/</guid>
+      <description>Loyal friends is a blend of Kekfrankos, Pinot Noir, Merlot and Kekoporto locally grown grap varieties. It is characterised by lively fruit and spicy features, with a rounded flavour after spending 16 months in oak barrels.</description>
+    </item>
+    
+    <item>
+      <title>Old Friends</title>
+      <link>http://example.org/services/old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/services/old/</guid>
+      <description>Old Friends is the blend of Tramini (Gewurtztraminer), widely used in the Alsatian region and Leanyka, from the Carpatian Basin. Both these varieties are grown locally. This wine has a subtle fragrance of flowers with spicy pear and green apple notes with a slight mineral background. Aged for one year in oak barrels.</description>
+    </item>
+    
+    <item>
+      <title>True Friends</title>
+      <link>http://example.org/services/true/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/services/true/</guid>
+      <description>A light pinot noir with the lightness and dryness of a Borgogne with distinctive notes of dark cherry. Gold Medal winner.</description>
+    </item>
+    
+  </channel>
+</rss>
